@@ -1,5 +1,5 @@
 import streamlit as st
-from map_component import show_map
+#from map_component import show_map
 import os
 
 st.title("Show Your Position on a Map")
