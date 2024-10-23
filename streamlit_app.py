@@ -4,4 +4,4 @@ import os
 
 st.title("Show Your Position on a Map")
 st.write(f'{os.getcwd()}')
-show_map()
+#show_map()
