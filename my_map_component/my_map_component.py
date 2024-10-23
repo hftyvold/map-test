@@ -4,7 +4,7 @@ import streamlit.components.v1 as components
 # Create a Streamlit component to render the map
 _component_func = components.declare_component(
     "my_map_component",
-    path=os.path.join(os.path.dirname(os.path.abspath(__file__)), "frontend/build")
+    path="/workspaces/map-test/my_map_component/frontend/build"
 )
 
 def show_map():
