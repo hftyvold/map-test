@@ -23,8 +23,8 @@ This project provides tools for managing and accessing GU resources. It includes
     streamlit run streamlit_app.py --server.port 8502 --server.maxUploadSize 500
     ```
 5. Open the app on the proxy server:
-    - Local URL: [http://localhost:8000]
-    - Network URL: [http://172.16.39.205:8000]
+    - Local URL: [http://localhost:8000](http://localhost:8000)
+    - Network URL: [http://172.16.39.205:8000](http://172.16.39.205:8000)
 
 # Docker Instructions
 1. Build the Docker image:
